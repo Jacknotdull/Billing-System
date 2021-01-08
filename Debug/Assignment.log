@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Assignment\Assignment\Source.cpp(476,6): warning C4101: 'choice5': unreferenced local variable
+C:\Users\User\source\repos\Assignment\Assignment\Source.cpp(501,18): warning C4101: 'cha': unreferenced local variable
+C:\Users\User\source\repos\Assignment\Assignment\Source.cpp(553,11): warning C4102: 'memberview': unreferenced label
+  Assignment.vcxproj -> C:\Users\User\source\repos\Assignment\Debug\Assignment.exe
